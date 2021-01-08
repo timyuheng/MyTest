@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/timyuheng/MyTest/MyUtils"
+	myutils "github.com/timyuheng/MyTest/MyUtils"
 )
 
 func main() {
